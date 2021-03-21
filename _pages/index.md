@@ -5,11 +5,11 @@ narrow: true
 title: Welcome to Sean's home!
 ---
 
-## Post
-머신러닝을 알아가면서 벌어지는 이야기들
+## Posts
+머신러닝을 알아가면서 벌어지는 이야기들을 모아둔 곳 입니다.
 
 ## Projects
-머신러닝을 공부한 흔적들
+머신러닝을 공부한 흔적들을 모아둔 곳 입니다.
 
 ### Recent Posts
 
